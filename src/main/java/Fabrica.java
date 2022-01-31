@@ -8,5 +8,6 @@ public class Fabrica {
         Coche car3 = new Coche("9012-HH","BMW","850","Gris",false,400, 5, 5);
 
         Coche car4 = new Coche("3456-XS","VW","Caddy","Blanco",true,500, 5, 7);
+
     }
 }
